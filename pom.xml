@@ -30,6 +30,13 @@
 			<url>LICENSE.txt</url>
 		</license>
 	</licenses>
+	  <repositories>
+    <repository>
+      <id>egit</id>
+      <name>Eclipse egit</name>
+      <url>https://repo.eclipse.org/content/repositories/egit-releases/</url>
+    </repository>
+  </repositories>
 
 	<issueManagement>
 		<system>JIRA</system>
